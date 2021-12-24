@@ -1,6 +1,55 @@
-background-image
-    radialGradient: 
+body{
+    background-color: #CCDAE0;
 }
+
 header{
+    text-align: center;
     font-variant: center;
+    margin : auto;
+    width: 600px;
+}
+
+#banner{
+    width: 800px;
+    height: 200px;
+}
+
+h1{
+    text-align: center;
+    color:  #EF233C;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+}
+
+h3{
+    color:  #2B2D42;
+    font-size: 40px;
+    font-weight: 900;
+    text-decoration: dotted 10px;
+}
+
+section{
+    border: solid 1px black;
+}
+
+img{
+    border: solid 2px  #8D99AE;
+}
+
+div{
+    text-align: center;
+}
+
+footer{
+    text-align: end;
+}
+
+ul:visited{
+    color: grey
+    
+}
+
+ul{
+    color: #D90429;
 }
